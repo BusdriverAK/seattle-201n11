@@ -5,10 +5,10 @@
 
 ## Today's Schedule
 - Announcements
-  - Reminder: weekly surveys will go out today
-- Discuss upcoming Career Coaching assignments
-- Code Review *[60 minutes]*
-- [301 Preview](#301) *[30 minutes]*
+  - Reminder: Weekly feedback
+- Exam, how did it go?
+- Go over merge conflict lab
+- Code Review for shopping cart *[60 minutes]*
 - [Final Project Overview](#project) *[60 minutes]*
 
 **Learning Objectives**
@@ -26,10 +26,6 @@ As a result of completing Lecture 15 of Code 201, students will:
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
 <a id="301"></a>
-
-## 301 Preview
-
-Preview of the topics in Code 301, and some over-arching 'how the web works' discussion.
 
 ### Structure of 301
 - Daily pair programming
