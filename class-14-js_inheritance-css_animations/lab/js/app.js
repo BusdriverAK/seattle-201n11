@@ -18,9 +18,9 @@ Cart.prototype.addItem = function (product, quantity) {
 };
 
 Cart.prototype.saveToLocalStorage = function () {
-        var localStorageData = JSON.stringify(Product.all);
-        localStorage.setItem('Product', localStorageData);
-        localStorage.getItem('Product', localStorageData);
+        var localStorageData = JSON.stringify(cart.allItems);
+        localStorage.setItem('cart', localStorageData);
+        localStorage.getItem('cart', localStorageData);
         JSON.parse(localStorageData);
     }
     saveToLocalStorage();
